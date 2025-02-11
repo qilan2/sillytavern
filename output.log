@@ -1,0 +1,23 @@
+Node version: v22.13.0. Running in undefined environment. Server directory: /root/SillyTavern
+Preferring IPv4 for DNS resolution
+Enabling CORS proxy
+Using data root: [32m./data[39m
+
+
+SillyTavern 1.12.10
+Running 'release' (d1f1299d4) - 2025-01-08 21:20:36 +0200
+
+
+Compiling frontend libraries...
+webpack 5.95.0 compiled [1m[32msuccessfully[39m[22m in 545 ms
+
+Launching...
+]2;SillyTavern WebServer\SillyTavern is listening on[32m IPv4: 127.0.0.1:8000[39m
+
+=================================================
+
+Go to: [34mhttp://127.0.0.1:8000/[39m to open SillyTavern
+
+=================================================
+
+]2;node\

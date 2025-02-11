@@ -1,0 +1,95 @@
+Node version: v22.13.0. Running in undefined environment. Server directory: /root/SillyTavern
+Preferring IPv4 for DNS resolution
+Enabling CORS proxy
+Using data root: [32m./data[39m
+
+
+SillyTavern 1.12.10
+Running 'release' (d1f1299d4) - 2025-01-08 21:20:36 +0200
+
+
+Compiling frontend libraries...
+webpack 5.95.0 compiled [1m[32msuccessfully[39m[22m in 533 ms
+
+Launching...
+]2;SillyTavern WebServer\SillyTavern is listening on[32m IPv4: 127.0.0.1:8000[39m
+
+=================================================
+
+Go to: [34mhttp://127.0.0.1:8000/[39m to open SillyTavern
+
+=================================================
+
+Extensions available for 1838404417 [
+  { type: 'system', name: 'assets' },
+  { type: 'system', name: 'attachments' },
+  { type: 'system', name: 'caption' },
+  { type: 'system', name: 'connection-manager' },
+  { type: 'system', name: 'expressions' },
+  { type: 'system', name: 'gallery' },
+  { type: 'system', name: 'memory' },
+  { type: 'system', name: 'quick-reply' },
+  { type: 'system', name: 'regex' },
+  { type: 'system', name: 'stable-diffusion' },
+  { type: 'system', name: 'token-counter' },
+  { type: 'system', name: 'translate' },
+  { type: 'system', name: 'tts' },
+  { type: 'system', name: 'vectors' }
+]
+ForbiddenError: invalid csrf token
+    at doubleCsrf (file:///root/SillyTavern/node_modules/csrf-csrf/lib/esm/index.js:12:35)
+    at file:///root/SillyTavern/server.js:382:53
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:547:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+Instantiated the tokenizer for gemma
+{
+  messages: [ { role: 'user', content: 'Hi' } ],
+  prompt: undefined,
+  model: 'gemini-1.5-pro',
+  temperature: 1,
+  max_tokens: 10000,
+  max_completion_tokens: undefined,
+  stream: false,
+  presence_penalty: 0,
+  frequency_penalty: 0,
+  top_p: 1,
+  top_k: undefined,
+  stop: undefined,
+  logit_bias: undefined,
+  seed: undefined,
+  n: undefined,
+  logprobs: undefined,
+  top_logprobs: undefined
+}
+{
+  id: 'chatcmpl-cc3016992e884e7cb2cd3d3f45b66786',
+  model: 'gemini-1.5-pro',
+  object: 'chat.completion',
+  created: 1736743856,
+  choices: [
+    {
+      index: 0,
+      message: {
+        role: 'assistant',
+        content: 'Hi there! How can I help you today?\n'
+      },
+      finish_reason: 'stop'
+    }
+  ],
+  usage: {
+    prompt_tokens: 2,
+    completion_tokens: 11,
+    total_tokens: 13,
+    prompt_tokens_details: {
+      cached_tokens: 0,
+      text_tokens: 0,
+      audio_tokens: 0,
+      image_tokens: 0
+    },
+    completion_tokens_details: { text_tokens: 0, audio_tokens: 0 }
+  }
+}
+{ role: 'assistant', content: 'Hi there! How can I help you today?\n' }
+Available models: [ 'gemini-1.5-pro' ]
+]2;node\

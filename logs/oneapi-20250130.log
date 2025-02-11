@@ -1,0 +1,85 @@
+[SYS] 2025/01/30 - 01:33:25 | One API v0.6.8 started 
+[SYS] 2025/01/30 - 01:33:25 | using MySQL as database 
+[SYS] 2025/01/30 - 01:33:26 | database migration started 
+[SYS] 2025/01/30 - 01:34:07 | database migrated 
+[SYS] 2025/01/30 - 01:34:08 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/30 - 01:34:08 | using theme berry 
+[SYS] 2025/01/30 - 01:34:08 | initializing token encoders 
+[SYS] 2025/01/30 - 01:34:09 | token encoders initialized 
+[SYS] 2025/01/30 - 01:34:09 | server started on http://localhost:3000 
+[SYS] 2025/01/30 - 03:45:30 | One API v0.6.8 started 
+[SYS] 2025/01/30 - 03:45:30 | using MySQL as database 
+[SYS] 2025/01/30 - 03:45:31 | database migration started 
+[SYS] 2025/01/30 - 03:45:59 | database migrated 
+[SYS] 2025/01/30 - 03:46:00 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/30 - 03:46:00 | using theme berry 
+[SYS] 2025/01/30 - 03:46:00 | initializing token encoders 
+[SYS] 2025/01/30 - 03:46:00 | token encoders initialized 
+[SYS] 2025/01/30 - 03:46:00 | server started on http://localhost:3000 
+[SYS] 2025/01/30 - 05:46:24 | One API v0.6.8 started 
+[SYS] 2025/01/30 - 05:46:24 | using MySQL as database 
+[SYS] 2025/01/30 - 05:46:25 | database migration started 
+[SYS] 2025/01/30 - 05:46:59 | database migrated 
+[SYS] 2025/01/30 - 05:46:59 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/30 - 05:47:00 | using theme berry 
+[SYS] 2025/01/30 - 05:47:00 | initializing token encoders 
+[SYS] 2025/01/30 - 05:47:00 | token encoders initialized 
+[SYS] 2025/01/30 - 05:47:00 | server started on http://localhost:3000 
+[GIN] 2025/01/30 - 05:59:22 | 2025013005592048502897757020957 | 200 |  1.797717792s |       127.0.0.1 |     GET /v1/models
+[SYS] 2025/01/30 - 07:54:58 | One API v0.6.8 started 
+[SYS] 2025/01/30 - 07:54:58 | using MySQL as database 
+[SYS] 2025/01/30 - 07:54:59 | database migration started 
+[SYS] 2025/01/30 - 07:55:36 | database migrated 
+[SYS] 2025/01/30 - 07:55:37 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/30 - 07:55:37 | using theme berry 
+[SYS] 2025/01/30 - 07:55:37 | initializing token encoders 
+[SYS] 2025/01/30 - 07:55:38 | token encoders initialized 
+[SYS] 2025/01/30 - 07:55:38 | server started on http://localhost:3000 
+[SYS] 2025/01/30 - 10:09:26 | One API v0.6.8 started 
+[SYS] 2025/01/30 - 10:09:26 | using MySQL as database 
+[SYS] 2025/01/30 - 10:09:26 | database migration started 
+[SYS] 2025/01/30 - 10:09:30 | database migrated 
+[SYS] 2025/01/30 - 10:09:30 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/30 - 10:09:30 | using theme berry 
+[SYS] 2025/01/30 - 10:09:30 | initializing token encoders 
+[SYS] 2025/01/30 - 10:09:30 | token encoders initialized 
+[SYS] 2025/01/30 - 10:09:30 | server started on http://localhost:3000 
+[SYS] 2025/01/30 - 10:50:44 | One API v0.6.8 started 
+[SYS] 2025/01/30 - 10:50:44 | using MySQL as database 
+[FATAL] 2025/01/30 - 10:52:58 | [failed to initialize database: dial tcp 106.52.51.116:3306: connect: connection timed out] 
+[SYS] 2025/01/30 - 13:16:59 | One API v0.6.8 started 
+[SYS] 2025/01/30 - 13:16:59 | using MySQL as database 
+[SYS] 2025/01/30 - 13:17:01 | database migration started 
+[SYS] 2025/01/30 - 13:17:45 | database migrated 
+[SYS] 2025/01/30 - 13:17:46 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/30 - 13:17:46 | using theme berry 
+[SYS] 2025/01/30 - 13:17:46 | initializing token encoders 
+[SYS] 2025/01/30 - 13:17:47 | token encoders initialized 
+[SYS] 2025/01/30 - 13:17:47 | server started on http://localhost:3000 
+[SYS] 2025/01/30 - 19:27:52 | One API v0.6.8 started 
+[SYS] 2025/01/30 - 19:27:52 | using MySQL as database 
+[SYS] 2025/01/30 - 19:27:53 | database migration started 
+[SYS] 2025/01/30 - 19:27:56 | database migrated 
+[SYS] 2025/01/30 - 19:27:56 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/30 - 19:27:57 | using theme berry 
+[SYS] 2025/01/30 - 19:27:57 | initializing token encoders 
+[SYS] 2025/01/30 - 19:27:57 | token encoders initialized 
+[SYS] 2025/01/30 - 19:27:57 | server started on http://localhost:3000 
+[SYS] 2025/01/30 - 21:45:57 | One API v0.6.8 started 
+[SYS] 2025/01/30 - 21:45:57 | using MySQL as database 
+[SYS] 2025/01/30 - 21:45:58 | database migration started 
+[SYS] 2025/01/30 - 21:46:37 | database migrated 
+[SYS] 2025/01/30 - 21:46:38 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/30 - 21:46:38 | using theme berry 
+[SYS] 2025/01/30 - 21:46:38 | initializing token encoders 
+[SYS] 2025/01/30 - 21:46:39 | token encoders initialized 
+[SYS] 2025/01/30 - 21:46:39 | server started on http://localhost:3000 
+[SYS] 2025/01/30 - 23:30:22 | One API v0.6.8 started 
+[SYS] 2025/01/30 - 23:30:22 | using MySQL as database 
+[SYS] 2025/01/30 - 23:30:24 | database migration started 
+[SYS] 2025/01/30 - 23:31:03 | database migrated 
+[SYS] 2025/01/30 - 23:31:03 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/30 - 23:31:04 | using theme berry 
+[SYS] 2025/01/30 - 23:31:04 | initializing token encoders 
+[SYS] 2025/01/30 - 23:31:04 | token encoders initialized 
+[SYS] 2025/01/30 - 23:31:04 | server started on http://localhost:3000 

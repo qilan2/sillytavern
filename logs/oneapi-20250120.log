@@ -1,0 +1,75 @@
+[SYS] 2025/01/20 - 02:34:06 | One API v0.6.8 started 
+[SYS] 2025/01/20 - 02:34:06 | using MySQL as database 
+[SYS] 2025/01/20 - 02:34:07 | database migration started 
+[SYS] 2025/01/20 - 02:34:53 | database migrated 
+[SYS] 2025/01/20 - 02:34:53 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/20 - 02:34:54 | using theme berry 
+[SYS] 2025/01/20 - 02:34:54 | initializing token encoders 
+[SYS] 2025/01/20 - 02:34:54 | token encoders initialized 
+[SYS] 2025/01/20 - 02:34:54 | server started on http://localhost:3000 
+[SYS] 2025/01/20 - 06:46:14 | One API v0.6.8 started 
+[SYS] 2025/01/20 - 06:46:14 | using MySQL as database 
+[SYS] 2025/01/20 - 06:46:17 | database migration started 
+[SYS] 2025/01/20 - 06:47:04 | database migrated 
+[SYS] 2025/01/20 - 06:47:04 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/20 - 06:47:04 | using theme berry 
+[SYS] 2025/01/20 - 06:47:04 | initializing token encoders 
+[SYS] 2025/01/20 - 06:47:05 | token encoders initialized 
+[SYS] 2025/01/20 - 06:47:05 | server started on http://localhost:3000 
+[SYS] 2025/01/20 - 10:54:27 | One API v0.6.8 started 
+[SYS] 2025/01/20 - 10:54:27 | using MySQL as database 
+[SYS] 2025/01/20 - 10:54:29 | database migration started 
+[SYS] 2025/01/20 - 10:55:06 | database migrated 
+[SYS] 2025/01/20 - 10:55:06 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/20 - 10:55:06 | using theme berry 
+[SYS] 2025/01/20 - 10:55:06 | initializing token encoders 
+[SYS] 2025/01/20 - 10:55:07 | token encoders initialized 
+[SYS] 2025/01/20 - 10:55:07 | server started on http://localhost:3000 
+[SYS] 2025/01/20 - 14:47:09 | One API v0.6.8 started 
+[SYS] 2025/01/20 - 14:47:09 | using MySQL as database 
+[SYS] 2025/01/20 - 14:47:11 | database migration started 
+[SYS] 2025/01/20 - 14:48:15 | database migrated 
+[SYS] 2025/01/20 - 14:48:15 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/20 - 14:48:16 | using theme berry 
+[SYS] 2025/01/20 - 14:48:16 | initializing token encoders 
+[SYS] 2025/01/20 - 14:48:16 | token encoders initialized 
+[SYS] 2025/01/20 - 14:48:16 | server started on http://localhost:3000 
+[SYS] 2025/01/20 - 16:14:59 | CacheGetTokenByKey failed: record not found 
+[ERR] 2025/01/20 - 16:14:59 | 2025012016145778235322842130324 | 无效的令牌 
+[GIN] 2025/01/20 - 16:14:59 | 2025012016145778235322842130324 | 401 |  1.330933633s |       127.0.0.1 |     GET /v1/models
+[SYS] 2025/01/20 - 16:15:03 | CacheGetTokenByKey failed: record not found 
+[ERR] 2025/01/20 - 16:15:03 | 2025012016150170145486772261092 | 无效的令牌 
+[GIN] 2025/01/20 - 16:15:03 | 2025012016150170145486772261092 | 401 |  1.683122613s |       127.0.0.1 |    POST /v1/chat/completions
+[SYS] 2025/01/20 - 16:23:24 | CacheGetTokenByKey failed: record not found 
+[ERR] 2025/01/20 - 16:23:24 | 2025012016232293186249029596426 | 无效的令牌 
+[GIN] 2025/01/20 - 16:23:24 | 2025012016232293186249029596426 | 401 |   1.29165371s |       127.0.0.1 |     GET /v1/models
+[SYS] 2025/01/20 - 16:23:31 | CacheGetTokenByKey failed: record not found 
+[ERR] 2025/01/20 - 16:23:31 | 2025012016233091451858473606404 | 无效的令牌 
+[GIN] 2025/01/20 - 16:23:31 | 2025012016233091451858473606404 | 401 |  258.201278ms |       127.0.0.1 |     GET /v1/models
+[SYS] 2025/01/20 - 16:23:42 | CacheGetTokenByKey failed: record not found 
+[ERR] 2025/01/20 - 16:23:42 | 2025012016234257788222871702171 | 无效的令牌 
+[GIN] 2025/01/20 - 16:23:42 | 2025012016234257788222871702171 | 401 |  255.230459ms |       127.0.0.1 |     GET /v1/models
+[SYS] 2025/01/20 - 16:24:11 | CacheGetTokenByKey failed: record not found 
+[ERR] 2025/01/20 - 16:24:11 | 2025012016241155788849725266155 | 无效的令牌 
+[GIN] 2025/01/20 - 16:24:11 | 2025012016241155788849725266155 | 401 |  266.775496ms |       127.0.0.1 |    POST /v1/chat/completions
+[SYS] 2025/01/20 - 16:24:41 | CacheGetTokenByKey failed: record not found 
+[ERR] 2025/01/20 - 16:24:41 | 2025012016243932144545042599807 | 无效的令牌 
+[GIN] 2025/01/20 - 16:24:41 | 2025012016243932144545042599807 | 401 |  2.036526696s |       127.0.0.1 |     GET /v1/models
+[SYS] 2025/01/20 - 17:57:07 | One API v0.6.8 started 
+[SYS] 2025/01/20 - 17:57:07 | using MySQL as database 
+[SYS] 2025/01/20 - 17:57:08 | database migration started 
+[SYS] 2025/01/20 - 17:57:54 | database migrated 
+[SYS] 2025/01/20 - 17:57:54 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/20 - 17:57:55 | using theme berry 
+[SYS] 2025/01/20 - 17:57:55 | initializing token encoders 
+[SYS] 2025/01/20 - 17:57:55 | token encoders initialized 
+[SYS] 2025/01/20 - 17:57:55 | server started on http://localhost:3000 
+[SYS] 2025/01/20 - 21:59:43 | One API v0.6.8 started 
+[SYS] 2025/01/20 - 21:59:43 | using MySQL as database 
+[SYS] 2025/01/20 - 21:59:43 | database migration started 
+[SYS] 2025/01/20 - 21:59:47 | database migrated 
+[SYS] 2025/01/20 - 21:59:47 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/20 - 21:59:47 | using theme berry 
+[SYS] 2025/01/20 - 21:59:47 | initializing token encoders 
+[SYS] 2025/01/20 - 21:59:48 | token encoders initialized 
+[SYS] 2025/01/20 - 21:59:48 | server started on http://localhost:3000 

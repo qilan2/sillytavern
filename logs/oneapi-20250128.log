@@ -1,0 +1,100 @@
+[SYS] 2025/01/28 - 01:19:09 | One API v0.6.8 started 
+[SYS] 2025/01/28 - 01:19:09 | using MySQL as database 
+[SYS] 2025/01/28 - 01:19:10 | database migration started 
+[SYS] 2025/01/28 - 01:19:21 | database migrated 
+[SYS] 2025/01/28 - 01:19:21 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/28 - 01:19:21 | using theme berry 
+[SYS] 2025/01/28 - 01:19:21 | initializing token encoders 
+[SYS] 2025/01/28 - 01:19:21 | token encoders initialized 
+[SYS] 2025/01/28 - 01:19:21 | server started on http://localhost:3000 
+[GIN] 2025/01/28 - 01:59:32 | 202501280159321608008041549748 | 200 |   30.790821ms |       127.0.0.1 |     GET /
+[GIN] 2025/01/28 - 01:59:32 | 2025012801593247480389292434147 | 200 |    6.412087ms |       127.0.0.1 |     GET //favicon.ico
+[SYS] 2025/01/28 - 03:52:56 | One API v0.6.8 started 
+[SYS] 2025/01/28 - 03:52:56 | using MySQL as database 
+[SYS] 2025/01/28 - 03:52:58 | database migration started 
+[SYS] 2025/01/28 - 03:53:42 | database migrated 
+[SYS] 2025/01/28 - 03:53:42 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/28 - 03:53:43 | using theme berry 
+[SYS] 2025/01/28 - 03:53:43 | initializing token encoders 
+[SYS] 2025/01/28 - 03:53:43 | token encoders initialized 
+[SYS] 2025/01/28 - 03:53:43 | server started on http://localhost:3000 
+[SYS] 2025/01/28 - 06:11:23 | One API v0.6.8 started 
+[SYS] 2025/01/28 - 06:11:23 | using MySQL as database 
+[SYS] 2025/01/28 - 06:11:23 | database migration started 
+[SYS] 2025/01/28 - 06:11:34 | database migrated 
+[SYS] 2025/01/28 - 06:11:34 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/28 - 06:11:34 | using theme berry 
+[SYS] 2025/01/28 - 06:11:34 | initializing token encoders 
+[SYS] 2025/01/28 - 06:11:35 | token encoders initialized 
+[SYS] 2025/01/28 - 06:11:35 | server started on http://localhost:3000 
+[GIN] 2025/01/28 - 07:09:15 | 2025012807091569634131323236299 | 200 |   32.706636ms |       127.0.0.1 |     GET /
+[GIN] 2025/01/28 - 07:09:23 | 2025012807092315721500716856409 | 200 |   16.325295ms |       127.0.0.1 |     GET /
+[GIN] 2025/01/28 - 07:09:24 | 2025012807092483317090448316737 | 200 |   13.993396ms |       127.0.0.1 |     GET /favicon.ico
+[GIN] 2025/01/28 - 07:09:26 | 2025012807092647568457102759517 | 200 |    4.991733ms |       127.0.0.1 |     PRI *
+[GIN] 2025/01/28 - 08:04:09 | 2025012808040925103183891769184 | 200 |   25.135635ms |       127.0.0.1 | CONNECT 
+[SYS] 2025/01/28 - 08:53:09 | One API v0.6.8 started 
+[SYS] 2025/01/28 - 08:53:09 | using MySQL as database 
+[SYS] 2025/01/28 - 08:53:10 | database migration started 
+[SYS] 2025/01/28 - 08:53:44 | database migrated 
+[SYS] 2025/01/28 - 08:53:44 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/28 - 08:53:44 | using theme berry 
+[SYS] 2025/01/28 - 08:53:44 | initializing token encoders 
+[SYS] 2025/01/28 - 08:53:45 | token encoders initialized 
+[SYS] 2025/01/28 - 08:53:45 | server started on http://localhost:3000 
+[SYS] 2025/01/28 - 11:08:36 | One API v0.6.8 started 
+[SYS] 2025/01/28 - 11:08:36 | using MySQL as database 
+[SYS] 2025/01/28 - 11:08:37 | database migration started 
+[SYS] 2025/01/28 - 11:09:06 | database migrated 
+[SYS] 2025/01/28 - 11:09:06 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/28 - 11:09:06 | using theme berry 
+[SYS] 2025/01/28 - 11:09:06 | initializing token encoders 
+[SYS] 2025/01/28 - 11:09:07 | token encoders initialized 
+[SYS] 2025/01/28 - 11:09:07 | server started on http://localhost:3000 
+[SYS] 2025/01/28 - 13:26:23 | One API v0.6.8 started 
+[SYS] 2025/01/28 - 13:26:23 | using MySQL as database 
+[SYS] 2025/01/28 - 13:26:24 | database migration started 
+[SYS] 2025/01/28 - 13:27:03 | database migrated 
+[SYS] 2025/01/28 - 13:27:04 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/28 - 13:27:04 | using theme berry 
+[SYS] 2025/01/28 - 13:27:04 | initializing token encoders 
+[SYS] 2025/01/28 - 13:27:05 | token encoders initialized 
+[SYS] 2025/01/28 - 13:27:05 | server started on http://localhost:3000 
+[SYS] 2025/01/28 - 15:40:56 | One API v0.6.8 started 
+[SYS] 2025/01/28 - 15:40:56 | using MySQL as database 
+[SYS] 2025/01/28 - 15:40:58 | database migration started 
+[SYS] 2025/01/28 - 15:41:38 | database migrated 
+[SYS] 2025/01/28 - 15:41:38 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/28 - 15:41:38 | using theme berry 
+[SYS] 2025/01/28 - 15:41:38 | initializing token encoders 
+[SYS] 2025/01/28 - 15:41:39 | token encoders initialized 
+[SYS] 2025/01/28 - 15:41:39 | server started on http://localhost:3000 
+[GIN] 2025/01/28 - 15:50:08 | 2025012815500892275889817824396 | 200 |      66.332µs |       127.0.0.1 | CONNECT 
+[SYS] 2025/01/28 - 18:00:26 | One API v0.6.8 started 
+[SYS] 2025/01/28 - 18:00:26 | using MySQL as database 
+[SYS] 2025/01/28 - 18:00:26 | database migration started 
+[SYS] 2025/01/28 - 18:00:30 | database migrated 
+[SYS] 2025/01/28 - 18:00:30 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/28 - 18:00:30 | using theme berry 
+[SYS] 2025/01/28 - 18:00:30 | initializing token encoders 
+[SYS] 2025/01/28 - 18:00:31 | token encoders initialized 
+[SYS] 2025/01/28 - 18:00:31 | server started on http://localhost:3000 
+[GIN] 2025/01/28 - 18:42:24 | 2025012818422427861746722959762 | 200 |   18.747802ms |       127.0.0.1 | CONNECT 
+[GIN] 2025/01/28 - 18:42:24 | 2025012818422462060253691384089 | 200 |   14.807721ms |       127.0.0.1 |     GET /
+[SYS] 2025/01/28 - 20:46:30 | One API v0.6.8 started 
+[SYS] 2025/01/28 - 20:46:30 | using MySQL as database 
+[SYS] 2025/01/28 - 20:46:32 | database migration started 
+[SYS] 2025/01/28 - 20:47:17 | database migrated 
+[SYS] 2025/01/28 - 20:47:18 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/28 - 20:47:18 | using theme berry 
+[SYS] 2025/01/28 - 20:47:18 | initializing token encoders 
+[SYS] 2025/01/28 - 20:47:19 | token encoders initialized 
+[SYS] 2025/01/28 - 20:47:19 | server started on http://localhost:3000 
+[SYS] 2025/01/28 - 22:59:09 | One API v0.6.8 started 
+[SYS] 2025/01/28 - 22:59:09 | using MySQL as database 
+[SYS] 2025/01/28 - 22:59:10 | database migration started 
+[SYS] 2025/01/28 - 22:59:44 | database migrated 
+[SYS] 2025/01/28 - 22:59:45 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/28 - 22:59:45 | using theme berry 
+[SYS] 2025/01/28 - 22:59:45 | initializing token encoders 
+[SYS] 2025/01/28 - 22:59:46 | token encoders initialized 
+[SYS] 2025/01/28 - 22:59:46 | server started on http://localhost:3000 

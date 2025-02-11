@@ -1,0 +1,36 @@
+[SYS] 2025/01/14 - 02:06:18 | One API v0.6.8 started 
+[SYS] 2025/01/14 - 02:06:18 | using MySQL as database 
+[SYS] 2025/01/14 - 02:06:20 | database migration started 
+[SYS] 2025/01/14 - 02:07:01 | database migrated 
+[SYS] 2025/01/14 - 02:07:01 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/14 - 02:07:02 | using theme berry 
+[SYS] 2025/01/14 - 02:07:02 | initializing token encoders 
+[SYS] 2025/01/14 - 02:07:02 | token encoders initialized 
+[SYS] 2025/01/14 - 02:07:02 | server started on http://localhost:3000 
+[GIN] 2025/01/14 - 05:24:43 | 2025011405244381914140272279585 | 200 |   24.662195ms |       127.0.0.1 |     GET /
+[GIN] 2025/01/14 - 05:24:44 | 202501140524447495919154157344 | 200 |     112.354µs |       127.0.0.1 | OPTIONS /
+[GIN] 2025/01/14 - 05:25:18 | 2025011405251813511582989945383 | 200 |     129.704µs |       127.0.0.1 |     GET /
+[GIN] 2025/01/14 - 09:03:10 | 2025011409031043782307328990353 | 200 |    1.115896ms |       127.0.0.1 |     GET /
+[GIN] 2025/01/14 - 09:03:14 | 2025011409031444037624622902799 | 200 |     9.60074ms |       127.0.0.1 |     GET /
+[GIN] 2025/01/14 - 09:03:15 | 202501140903156172885241721401 | 200 |   12.056834ms |       127.0.0.1 |     GET /favicon.ico
+[GIN] 2025/01/14 - 09:03:15 | 2025011409031575773324067544601 | 200 |    19.29273ms |       127.0.0.1 |     PRI *
+[SYS] 2025/01/14 - 11:52:49 | One API v0.6.8 started 
+[SYS] 2025/01/14 - 11:52:49 | using MySQL as database 
+[SYS] 2025/01/14 - 11:52:50 | database migration started 
+[SYS] 2025/01/14 - 11:53:27 | database migrated 
+[SYS] 2025/01/14 - 11:53:28 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/14 - 11:53:28 | using theme berry 
+[SYS] 2025/01/14 - 11:53:28 | initializing token encoders 
+[SYS] 2025/01/14 - 11:53:29 | token encoders initialized 
+[SYS] 2025/01/14 - 11:53:29 | server started on http://localhost:3000 
+[GIN] 2025/01/14 - 19:21:08 | 202501141921082453699782208396 | 200 |   31.019851ms |       127.0.0.1 |     GET /
+[GIN] 2025/01/14 - 19:21:08 | 2025011419210827672285101184382 | 200 |   24.991004ms |       127.0.0.1 |     GET //favicon.ico
+[SYS] 2025/01/14 - 20:33:11 | One API v0.6.8 started 
+[SYS] 2025/01/14 - 20:33:11 | using MySQL as database 
+[SYS] 2025/01/14 - 20:33:12 | database migration started 
+[SYS] 2025/01/14 - 20:33:52 | database migrated 
+[SYS] 2025/01/14 - 20:33:52 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/14 - 20:33:53 | using theme berry 
+[SYS] 2025/01/14 - 20:33:53 | initializing token encoders 
+[SYS] 2025/01/14 - 20:33:53 | token encoders initialized 
+[SYS] 2025/01/14 - 20:33:53 | server started on http://localhost:3000 

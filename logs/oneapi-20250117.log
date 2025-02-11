@@ -1,0 +1,165 @@
+[SYS] 2025/01/17 - 06:43:44 | One API v0.6.8 started 
+[SYS] 2025/01/17 - 06:43:44 | using MySQL as database 
+[SYS] 2025/01/17 - 06:43:44 | database migration started 
+[SYS] 2025/01/17 - 06:43:47 | database migrated 
+[SYS] 2025/01/17 - 06:43:48 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/17 - 06:43:48 | using theme berry 
+[SYS] 2025/01/17 - 06:43:48 | initializing token encoders 
+[SYS] 2025/01/17 - 06:43:48 | token encoders initialized 
+[SYS] 2025/01/17 - 06:43:48 | server started on http://localhost:3000 
+[GIN] 2025/01/17 - 12:29:05 | 2025011712290534886030239453175 | 200 |   39.540707ms |       127.0.0.1 |     GET /
+[GIN] 2025/01/17 - 12:29:05 | 2025011712290551032253410142158 | 200 |    5.647514ms |       127.0.0.1 |     GET /explicit_not_exist_path
+[GIN] 2025/01/17 - 12:29:05 | 2025011712290570235287963896401 | 200 |    5.427208ms |       127.0.0.1 |     GET /admin/
+[GIN] 2025/01/17 - 12:29:05 | 2025011712290589959821786338710 | 200 |    6.133157ms |       127.0.0.1 |     GET /robots.txt
+[GIN] 2025/01/17 - 12:29:06 | 202501171229062351213147006789 | 200 |     1.17233ms |       127.0.0.1 |     GET /favicon.ico
+[GIN] 2025/01/17 - 12:29:06 | 2025011712290625987039226416570 | 200 |      361.78µs |       127.0.0.1 |     GET /images/ofbiz.ico
+[GIN] 2025/01/17 - 12:29:06 | 2025011712290640119595986124683 | 200 |     711.676µs |       127.0.0.1 |     GET /phpMyAdmin/
+[GIN] 2025/01/17 - 12:29:06 | 2025011712290652578935299665232 | 200 |     984.298µs |       127.0.0.1 |     GET /phpmyadmin/
+[GIN] 2025/01/17 - 12:29:06 | 2025011712290665095515520190053 | 200 |     826.897µs |       127.0.0.1 |     GET /wcm/
+[SYS] 2025/01/17 - 13:53:20 | One API v0.6.8 started 
+[SYS] 2025/01/17 - 13:53:20 | using MySQL as database 
+[SYS] 2025/01/17 - 13:53:22 | database migration started 
+[SYS] 2025/01/17 - 13:54:09 | database migrated 
+[SYS] 2025/01/17 - 13:54:09 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/17 - 13:54:10 | using theme berry 
+[SYS] 2025/01/17 - 13:54:10 | initializing token encoders 
+[SYS] 2025/01/17 - 13:54:10 | token encoders initialized 
+[SYS] 2025/01/17 - 13:54:10 | server started on http://localhost:3000 
+[GIN] 2025/01/17 - 14:58:54 | 2025011714585488957283495893997 | 200 |     3.92347ms |       127.0.0.1 |     GET /csrf-token
+[GIN] 2025/01/17 - 15:05:03 | 2025011715050358204189496364407 | 200 |   55.439439ms |       127.0.0.1 |     GET /
+[GIN] 2025/01/17 - 15:05:04 | 2025011715050396140457427657665 | 200 |   51.493581ms |       127.0.0.1 |     GET /static/js/main.fcac8582.js
+[GIN] 2025/01/17 - 15:05:04 | 202501171505044465753553695301 | 200 |    3.942645ms |       127.0.0.1 |     GET /static/css/main.d77598b1.css
+[GIN] 2025/01/17 - 15:05:05 | 2025011715050549874114283964368 | 200 |    7.476211ms |       127.0.0.1 |     GET /static/js/96.df5a4b4d.chunk.js
+[GIN] 2025/01/17 - 15:05:05 | 2025011715050550082730553372311 | 200 |    9.095267ms |       127.0.0.1 |     GET /static/js/41.cbafe90c.chunk.js
+[GIN] 2025/01/17 - 15:05:05 | 2025011715050558218125953983227 | 200 |    2.409086ms |       127.0.0.1 |     GET /static/media/logo.68b17e733347aa0a417e3860f62bb313.svg
+[GIN] 2025/01/17 - 15:05:05 | 2025011715050569137395545949627 | 200 |    1.656153ms |       127.0.0.1 |     GET /static/media/roboto-regular.cfba0239aa54fa9645fe.woff2
+[GIN] 2025/01/17 - 15:05:05 | 2025011715050572409668386693043 | 200 |    2.367949ms |       127.0.0.1 |     GET /api/status
+[GIN] 2025/01/17 - 15:05:05 | 2025011715050575418664811783402 | 200 |    2.011158ms |       127.0.0.1 |     GET /static/media/roboto-500.a1ae85208521fce59e29.woff2
+[GIN] 2025/01/17 - 15:05:05 | 2025011715050581045562467608580 | 200 |    1.135928ms |       127.0.0.1 |     GET /api/home_page_content
+[GIN] 2025/01/17 - 15:05:05 | 2025011715050586293845258534472 | 200 |    1.346903ms |       127.0.0.1 |     GET /api/notice
+[GIN] 2025/01/17 - 15:05:06 | 202501171505065357390202256589 | 200 |     677.621µs |       127.0.0.1 |     GET /favicon.ico
+[GIN] 2025/01/17 - 15:05:06 | 2025011715050612226509037820666 | 200 |     828.785µs |       127.0.0.1 |     GET /static/media/roboto-700.a6d79156a10fbf69e34c.woff2
+[GIN] 2025/01/17 - 15:05:08 | 2025011715050860997953349755509 | 200 |    5.184462ms |       127.0.0.1 |     GET /static/js/331.9349a913.chunk.js
+[GIN] 2025/01/17 - 15:05:08 | 2025011715050860976679752153559 | 200 |    6.680548ms |       127.0.0.1 |     GET /static/js/415.d196ccc6.chunk.js
+[GIN] 2025/01/17 - 15:05:08 | 2025011715050861277061169060462 | 200 |    9.392785ms |       127.0.0.1 |     GET /static/js/464.5ef1b422.chunk.js
+[GIN] 2025/01/17 - 15:05:08 | 2025011715050861601747841495424 | 200 |   22.573195ms |       127.0.0.1 |     GET /static/js/219.ea6726d1.chunk.js
+[GIN] 2025/01/17 - 15:05:08 | 2025011715050861268434250147760 | 200 |   26.170842ms |       127.0.0.1 |     GET /static/js/12.e1791a1f.chunk.js
+[GIN] 2025/01/17 - 15:05:26 | 2025011715052317267869676051941 | 200 |  2.866966512s |       127.0.0.1 |    POST /api/user/login
+[GIN] 2025/01/17 - 15:05:26 | 2025011715052636458783170420913 | 200 |    1.466915ms |       127.0.0.1 |     GET /static/media/user-round.95b2e396f1158e016a1b40c25cd6bd0a.svg
+[GIN] 2025/01/17 - 15:05:26 | 2025011715052637267444365327364 | 200 |     621.912µs |       127.0.0.1 |     GET /static/js/4.c6887404.chunk.js
+[GIN] 2025/01/17 - 15:05:26 | 2025011715052637253317208324276 | 200 |    46.60947ms |       127.0.0.1 |     GET /static/js/51.9f84df2c.chunk.js
+[GIN] 2025/01/17 - 15:05:27 | 2025011715052760155180485372547 | 200 |     256.359µs |       127.0.0.1 |     GET /static/media/shape-avatar.096ea8015d2d14ba4ce707d949a97823.svg
+[GIN] 2025/01/17 - 15:05:27 | 2025011715052760448705729569221 | 200 |    4.495991ms |       127.0.0.1 |     GET /static/media/cover.ce8466cd4be184bb082b.jpg
+[GIN] 2025/01/17 - 15:05:28 | 2025011715052760440504796431108 | 200 |  509.707706ms |       127.0.0.1 |     GET /api/user/self
+[GIN] 2025/01/17 - 15:05:28 | 2025011715052760448970117335043 | 200 |  1.285081334s |       127.0.0.1 |     GET /api/user/dashboard
+[GIN] 2025/01/17 - 15:05:34 | 2025011715053449045748728919743 | 200 |     1.23606ms |       127.0.0.1 |     GET /static/js/739.5bb09079.chunk.js
+[GIN] 2025/01/17 - 15:05:34 | 2025011715053449096822100869591 | 200 |    1.734493ms |       127.0.0.1 |     GET /static/js/402.c7d696bd.chunk.js
+[GIN] 2025/01/17 - 15:05:34 | 2025011715053449334232019328726 | 200 |      693.64µs |       127.0.0.1 |     GET /static/js/157.d40e0b77.chunk.js
+[GIN] 2025/01/17 - 15:05:34 | 2025011715053449241487171975000 | 200 |    2.027786ms |       127.0.0.1 |     GET /static/js/930.b7a0d0e8.chunk.js
+[GIN] 2025/01/17 - 15:05:34 | 2025011715053449262542629656019 | 200 |    4.447062ms |       127.0.0.1 |     GET /static/js/399.d31e968c.chunk.js
+[GIN] 2025/01/17 - 15:05:34 | 2025011715053485318764620335154 | 200 |     565.514µs |       127.0.0.1 |     GET /api/group/
+[GIN] 2025/01/17 - 15:05:35 | 2025011715053485346680139648207 | 200 |  513.134923ms |       127.0.0.1 |     GET /api/user/?p=0
+[GIN] 2025/01/17 - 15:05:38 | 202501171505383263608718281417 | 200 |    2.183374ms |       127.0.0.1 |     GET /static/js/516.ed4cf627.chunk.js
+[GIN] 2025/01/17 - 15:05:38 | 202501171505383267607773453688 | 200 |     2.23118ms |       127.0.0.1 |     GET /static/js/721.9f7be082.chunk.js
+[GIN] 2025/01/17 - 15:05:38 | 2025011715053837084320818926056 | 200 |    5.226527ms |       127.0.0.1 |     GET /api/models
+[GIN] 2025/01/17 - 15:05:38 | 2025011715053837328086527076674 | 200 |    3.631506ms |       127.0.0.1 |     GET /api/group/
+[GIN] 2025/01/17 - 15:05:38 | 2025011715053837331533376534873 | 200 |    4.475041ms |       127.0.0.1 |     GET /api/channel/models
+[GIN] 2025/01/17 - 15:05:38 | 2025011715053837328087442331918 | 200 |  512.374564ms |       127.0.0.1 |     GET /api/channel/?p=0
+[GIN] 2025/01/17 - 15:05:45 | 2025011715054437509414844749193 | 200 |  1.518367548s |       127.0.0.1 |     GET /api/channel/test
+[SYS] 2025/01/17 - 15:05:45 | {"messages":[{"role":"user","content":"hi"}],"model":"grok-vision-beta","max_tokens":2} 
+[SYS] 2025/01/17 - 15:05:47 | {"messages":[{"role":"user","content":"hi"}],"model":"grok-beta","max_tokens":2} 
+[SYS] 2025/01/17 - 15:05:49 | {"messages":[{"role":"user","content":"hi"}],"model":"grok-beta","max_tokens":2} 
+[SYS] 2025/01/17 - 15:05:50 | {"messages":[{"role":"user","content":"hi"}],"model":"grok-beta","max_tokens":2} 
+[SYS] 2025/01/17 - 15:05:51 | {"messages":[{"role":"user","content":"hi"}],"model":"grok-beta","max_tokens":2} 
+[GIN] 2025/01/17 - 15:05:52 | 2025011715055268408583204370899 | 200 |     271.796µs |       127.0.0.1 |     GET /panel/channel
+[SYS] 2025/01/17 - 15:05:52 | {"messages":[{"role":"user","content":"hi"}],"model":"grok-beta","max_tokens":2} 
+[GIN] 2025/01/17 - 15:05:53 | 2025011715055337916254723213882 | 200 |     684.624µs |       127.0.0.1 |     GET /api/status
+[GIN] 2025/01/17 - 15:05:53 | 2025011715055353908737071077434 | 200 |    1.269772ms |       127.0.0.1 |     GET /api/models
+[GIN] 2025/01/17 - 15:05:53 | 2025011715055354092901657151154 | 200 |     562.512µs |       127.0.0.1 |     GET /api/group/
+[GIN] 2025/01/17 - 15:05:53 | 2025011715055354121011817351403 | 200 |    4.889157ms |       127.0.0.1 |     GET /api/channel/models
+[SYS] 2025/01/17 - 15:05:53 | {"messages":[{"role":"user","content":"hi"}],"model":"grok-beta","max_tokens":2} 
+[GIN] 2025/01/17 - 15:05:54 | 2025011715055353874458710038133 | 200 |  506.590236ms |       127.0.0.1 |     GET /api/channel/?p=0
+[SYS] 2025/01/17 - 15:05:55 | {"messages":[{"role":"user","content":"hi"}],"model":"grok-beta","max_tokens":2} 
+[SYS] 2025/01/17 - 15:05:56 | {"messages":[{"role":"user","content":"hi"}],"model":"grok-beta","max_tokens":2} 
+[SYS] 2025/01/17 - 15:05:57 | {"messages":[{"role":"user","content":"hi"}],"model":"grok-beta","max_tokens":2} 
+[SYS] 2025/01/17 - 15:05:58 | {"messages":[{"role":"user","content":"hi"}],"model":"grok-beta","max_tokens":2} 
+[SYS] 2025/01/17 - 15:06:00 | {"messages":[{"role":"user","content":"hi"}],"model":"grok-beta","max_tokens":2} 
+[SYS] 2025/01/17 - 15:06:01 | {"messages":[{"role":"user","content":"hi"}],"model":"grok-beta","max_tokens":2} 
+[SYS] 2025/01/17 - 15:06:01 | {"messages":[{"role":"user","content":"hi"}],"model":"grok-vision-beta","max_tokens":2} 
+[GIN] 2025/01/17 - 15:06:01 | 2025011715060097065520535614122 | 200 |  625.608038ms |       127.0.0.1 |     GET /api/channel/test/41
+[SYS] 2025/01/17 - 15:06:03 | {"messages":[{"role":"user","content":"hi"}],"model":"grok-beta","max_tokens":2} 
+[SYS] 2025/01/17 - 15:06:04 | {"messages":[{"role":"user","content":"hi"}],"model":"grok-beta","max_tokens":2} 
+[GIN] 2025/01/17 - 15:06:05 | 202501171506054923404350814267 | 200 |  253.649267ms |       127.0.0.1 |     GET /api/channel/?p=0
+[SYS] 2025/01/17 - 15:06:06 | {"message":"hi","model":"command","max_tokens":2} 
+[SYS] 2025/01/17 - 15:06:06 | testing channel #11, response: 
+{"id":"chatcmpl-25d4a1ab-5a4b-420a-8a79-f590b35f2e74","model":"command","object":"chat.completion","created":1737126366,"choices":[{"index":0,"message":{"role":"assistant","content":"Hello!"},"finish_reason":"MAX_TOKENS"}],"usage":{"prompt_tokens":63,"completion_tokens":2,"total_tokens":65}} 
+[SYS] 2025/01/17 - 15:06:08 | {"message":"hi","model":"command","max_tokens":2} 
+[GIN] 2025/01/17 - 15:06:08 | 2025011715060785048266817724225 | 200 |  506.229685ms |       127.0.0.1 |     GET /api/channel/?p=1
+[GIN] 2025/01/17 - 15:06:08 | 2025011715060864427690345244998 | 200 |  253.755651ms |       127.0.0.1 |     GET /api/channel/?p=1
+[GIN] 2025/01/17 - 15:06:09 | 2025011715060925334280914496574 | 200 |   253.48065ms |       127.0.0.1 |     GET /api/channel/?p=2
+[SYS] 2025/01/17 - 15:06:13 | testing channel #6, response: 
+{"id":"chatcmpl-0bd43227-d3e3-4ae3-9f5c-ad80b8abf04e","model":"command","object":"chat.completion","created":1737126373,"choices":[{"index":0,"message":{"role":"assistant","content":"Hello!"},"finish_reason":"MAX_TOKENS"}],"usage":{"prompt_tokens":63,"completion_tokens":2,"total_tokens":65}} 
+[SYS] 2025/01/17 - 15:06:15 | {"message":"hi","model":"command","max_tokens":2} 
+[SYS] 2025/01/17 - 15:06:15 | testing channel #5, response: 
+{"id":"chatcmpl-d4ac0bf9-8190-4636-83af-ddf7b0c0ab61","model":"command","object":"chat.completion","created":1737126375,"choices":[{"index":0,"message":{"role":"assistant","content":"Hello!"},"finish_reason":"MAX_TOKENS"}],"usage":{"prompt_tokens":63,"completion_tokens":2,"total_tokens":65}} 
+[SYS] 2025/01/17 - 15:06:16 | {"message":"hi","model":"command","max_tokens":2} 
+[SYS] 2025/01/17 - 15:06:16 | testing channel #4, response: 
+{"id":"chatcmpl-33acddf5-5437-431e-b311-35b3eddc9087","model":"command","object":"chat.completion","created":1737126376,"choices":[{"index":0,"message":{"role":"assistant","content":"Hello!"},"finish_reason":"MAX_TOKENS"}],"usage":{"prompt_tokens":63,"completion_tokens":2,"total_tokens":65}} 
+[GIN] 2025/01/17 - 15:06:17 | 2025011715061729603599382601093 | 200 |     336.871µs |       127.0.0.1 |     GET /panel/channel
+[GIN] 2025/01/17 - 15:06:17 | 2025011715061778089701156395018 | 200 |     292.312µs |       127.0.0.1 |     GET /api/status
+[SYS] 2025/01/17 - 15:06:17 | {"message":"hi","model":"command","max_tokens":2} 
+[GIN] 2025/01/17 - 15:06:17 | 2025011715061793885948250077404 | 200 |     526.386µs |       127.0.0.1 |     GET /api/group/
+[GIN] 2025/01/17 - 15:06:17 | 2025011715061794116475126058725 | 200 |    1.173998ms |       127.0.0.1 |     GET /api/models
+[GIN] 2025/01/17 - 15:06:17 | 2025011715061794105802965936895 | 200 |    2.571548ms |       127.0.0.1 |     GET /api/channel/models
+[SYS] 2025/01/17 - 15:06:18 | testing channel #3, response: 
+{"id":"chatcmpl-4f9080c7-67dd-4015-bd49-ad202c76abec","model":"command","object":"chat.completion","created":1737126378,"choices":[{"index":0,"message":{"role":"assistant","content":"Hello!"},"finish_reason":"MAX_TOKENS"}],"usage":{"prompt_tokens":63,"completion_tokens":2,"total_tokens":65}} 
+[GIN] 2025/01/17 - 15:06:18 | 2025011715061793919665957553536 | 200 |  506.792266ms |       127.0.0.1 |     GET /api/channel/?p=0
+[SYS] 2025/01/17 - 15:06:19 | {"message":"hi","model":"command","max_tokens":2} 
+[SYS] 2025/01/17 - 15:06:20 | testing channel #2, response: 
+{"id":"chatcmpl-924c481b-6d17-41e2-866e-7d2ca65b9829","model":"command","object":"chat.completion","created":1737126380,"choices":[{"index":0,"message":{"role":"assistant","content":"Hello!"},"finish_reason":"MAX_TOKENS"}],"usage":{"prompt_tokens":63,"completion_tokens":2,"total_tokens":65}} 
+[SYS] 2025/01/17 - 15:06:21 | failed to send email: unknown notify method: all 
+[GIN] 2025/01/17 - 15:06:26 | 2025011715062682852192634851582 | 200 |    1.403622ms |       127.0.0.1 |     GET /static/js/101.1edacfe6.chunk.js
+[GIN] 2025/01/17 - 15:06:26 | 2025011715062682839379081752386 | 200 |   14.455275ms |       127.0.0.1 |     GET /static/js/487.bceb43b4.chunk.js
+[GIN] 2025/01/17 - 15:06:29 | 2025011715062773210381555027931 | 200 |   2.02733242s |       127.0.0.1 |     GET /api/token/?p=0
+[GIN] 2025/01/17 - 15:06:29 | 2025011715062773072259095693787 | 200 |  2.030531426s |       127.0.0.1 |     GET /api/user/available_models
+[GIN] 2025/01/17 - 15:07:07 | 2025011715070617310850150357487 | 200 |  1.269660856s |       127.0.0.1 |    POST /api/token/
+[GIN] 2025/01/17 - 15:07:08 | 2025011715070772485717136632047 | 200 |  990.889645ms |       127.0.0.1 |     GET /api/token/?p=0
+[GIN] 2025/01/17 - 15:07:27 | 2025011715072740471177112110058 | 200 |     369.453µs |       127.0.0.1 |     GET /api/group/
+[GIN] 2025/01/17 - 15:07:27 | 2025011715072740983700670787681 | 200 |    1.254346ms |       127.0.0.1 |     GET /api/models
+[GIN] 2025/01/17 - 15:07:27 | 2025011715072741003267898804077 | 200 |    2.846259ms |       127.0.0.1 |     GET /api/channel/models
+[GIN] 2025/01/17 - 15:07:27 | 2025011715072741198395937417198 | 200 |   506.57425ms |       127.0.0.1 |     GET /api/channel/?p=0
+[GIN] 2025/01/17 - 15:07:28 | 2025011715072877666296131696018 | 200 |     396.577µs |       127.0.0.1 |     GET /api/group/
+[GIN] 2025/01/17 - 15:07:29 | 2025011715072878956267800818876 | 200 |  506.780971ms |       127.0.0.1 |     GET /api/user/?p=0
+[GIN] 2025/01/17 - 15:07:30 | 2025011715072962153507946095449 | 200 |   1.30239046s |       127.0.0.1 |     GET /api/user/dashboard
+[GIN] 2025/01/17 - 15:07:31 | 2025011715072962366485270918239 | 200 |  2.022785325s |       127.0.0.1 |     GET /api/user/self
+[GIN] 2025/01/17 - 15:07:31 | 2025011715073153388876068086544 | 200 |  258.355129ms |       127.0.0.1 |     GET /api/user/dashboard
+[GIN] 2025/01/17 - 15:07:32 | 2025011715073193082734900550730 | 200 |  510.673997ms |       127.0.0.1 |     GET /api/user/self
+[GIN] 2025/01/17 - 15:08:31 | 20250117150829211546290978412 | 200 |  2.831638027s |       127.0.0.1 |     GET /v1/models
+[SYS] 2025/01/17 - 15:08:40 | failed to get token encoder for model command: no encoding for model command, using encoder for gpt-3.5-turbo 
+[INFO] 2025/01/17 - 15:08:40 | 2025011715083714774229296679536 | user 1 has enough quota 499999953202142, trusted and no need to pre-consume 
+[GIN] 2025/01/17 - 15:08:42 | 2025011715083714774229296679536 | 200 |  5.468220362s |       127.0.0.1 |    POST /v1/chat/completions
+[INFO] 2025/01/17 - 15:08:46 | 2025011715083714774229296679536 | record consume log: userId=1, channelId=3, promptTokens=63, completionTokens=58, modelName=command, tokenName=1, quota=90, content=模型倍率 0.50，分组倍率 1.00，补全倍率 2.00 
+[INFO] 2025/01/17 - 15:08:54 | 2025011715084988592715896487591 | user 1 has enough quota 499999953202052, trusted and no need to pre-consume 
+[GIN] 2025/01/17 - 15:09:01 | 2025011715084988592715896487591 | 200 | 12.091619031s |       127.0.0.1 |    POST /v1/chat/completions
+[INFO] 2025/01/17 - 15:09:04 | 2025011715084988592715896487591 | record consume log: userId=1, channelId=11, promptTokens=93, completionTokens=222, modelName=command, tokenName=1, quota=269, content=模型倍率 0.50，分组倍率 1.00，补全倍率 2.00 
+[ERR] 2025/01/17 - 15:27:35 | 2025011715273154484946442785603 | 该令牌额度已用尽 
+[GIN] 2025/01/17 - 15:27:35 | 2025011715273154484946442785603 | 401 |  3.593935304s |       127.0.0.1 |     GET /v1/models
+[ERR] 2025/01/17 - 15:28:26 | 2025011715282587935865096011179 | 令牌 1（#2）额度已用尽 
+[GIN] 2025/01/17 - 15:28:26 | 2025011715282587935865096011179 | 401 |  249.863103ms |       127.0.0.1 |     GET /v1/models
+[ERR] 2025/01/17 - 15:28:40 | 2025011715283919952418441786423 | 令牌 1（#2）额度已用尽 
+[GIN] 2025/01/17 - 15:28:40 | 2025011715283919952418441786423 | 401 |  1.289196356s |       127.0.0.1 |     GET /v1/models
+[ERR] 2025/01/17 - 15:29:30 | 2025011715293067699539921479487 | 令牌 1（#2）额度已用尽 
+[GIN] 2025/01/17 - 15:29:30 | 2025011715293067699539921479487 | 401 |    257.3204ms |       127.0.0.1 |     GET /v1/models
+[GIN] 2025/01/17 - 16:48:43 | 2025011716484380525364087691207 | 200 |    3.715502ms |       127.0.0.1 |     GET /
+[GIN] 2025/01/17 - 16:48:59 | 2025011716485944353203128855827 | 200 |    2.595009ms |       127.0.0.1 |     GET /
+[SYS] 2025/01/17 - 19:04:05 | One API v0.6.8 started 
+[SYS] 2025/01/17 - 19:04:05 | using MySQL as database 
+[SYS] 2025/01/17 - 19:04:05 | database migration started 
+[SYS] 2025/01/17 - 19:04:09 | database migrated 
+[SYS] 2025/01/17 - 19:04:09 | REDIS_CONN_STRING not set, Redis is not enabled 
+[SYS] 2025/01/17 - 19:04:09 | using theme berry 
+[SYS] 2025/01/17 - 19:04:09 | initializing token encoders 
+[SYS] 2025/01/17 - 19:04:09 | token encoders initialized 
+[SYS] 2025/01/17 - 19:04:09 | server started on http://localhost:3000 
+[GIN] 2025/01/17 - 22:10:07 | 2025011722100711561028717751941 | 200 |     144.817µs |       127.0.0.1 | CONNECT 
+[GIN] 2025/01/17 - 22:10:07 | 2025011722100742775822403680671 | 200 |   62.782247ms |       127.0.0.1 |     GET /
